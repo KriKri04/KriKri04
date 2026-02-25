@@ -13,10 +13,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://jupyter.org" style="display: inline-block;"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.odoo.com" style="display:inline-block;"><img src="https://github.com/user-attachments/assets/0c0dcfb1-3832-41b7-b9b0-c1ba7342b00f" width="42" height="42" alt="odoo"/></a>
+<a target="_blank" href="https://www.odoo.com" style="display:inline-block;"><img src="https://github.com/user-attachments/assets/ace409b6-6fdf-4263-ae0a-c069116696d1" width="42" height="42" alt="odoo"/></a>
 <a target="_blank" href="https://www.microsoft.com/microsoft-365/sharepoint" style="display:inline-block;"><img src="https://github.com/user-attachments/assets/f11d1577-3581-474d-962c-277009361e9b" width="42" height="42" alt="sharepoint"/></a>
 <a target="_blank" href="https://www.microsoft.com/microsoft-365" style="display:inline-block;"><img src="https://github.com/user-attachments/assets/986379a6-e77c-4e65-b0b8-a83743d295f7" width="42" height="42" alt="microsoft office"/></a>
 </a>
 
 </p>
-
