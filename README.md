@@ -14,21 +14,4 @@
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://jupyter.org" style="display: inline-block;"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="mssql" width="42" height="42" /></a>
 
-  <!-- Microsoft Office -->
-<a target="_blank" href="https://www.microsoft.com/microsoft-365" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"
-       alt="microsoft office" width="42" height="42"/>
-</a>
-
-<!-- Odoo -->
-<a target="_blank" href="https://www.odoo.com" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/odoo.svg"
-       alt="odoo" width="42" height="42"/>
-</a>
-
-<!-- Microsoft SharePoint -->
-<a target="_blank" href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsharepoint.svg"
-       alt="sharepoint" width="42" height="42"/>
-</a>
 </p>
