@@ -13,7 +13,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://jupyter.org" style="display: inline-block;"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="mssql" width="42" height="42" /></a>
-<img src="images/odoo_transparent.png" width="42" height="42" alt="odoo"/>
+<a target="_blank" href="https://www.odoo.com" style="display:inline-block;"><img src="https://github.com/user-attachments/assets/633fda5c-fbb1-4ed4-8f3f-6096e9266584" width="42" height="42" alt="odoo"/>
+</a>
 </a>
 
 </p>
